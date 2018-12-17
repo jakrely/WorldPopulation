@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "21b30a5ac5ca12e70f005c2d6300ff14dcd7f04305a2a39938d9fbe3b1e3dc10"
+            "sha256": "cae873dd98b3f5edeac92da9db6f27340cd4db2e67a70ae303a7e2e2916ae3be"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -21,8 +21,14 @@
                 "sha256:27abab93cbc31e21f3c6bdecc05bda6cd3570cbdbd8297b7caa6904051b50d72",
                 "sha256:9204f05380b02a8a32f9bf99d310b51aa2a932cba5b369f7a4dc3705f0a4ce83"
             ],
-            "index": "pypi tuna",
             "version": "==2.4.0"
+        },
+        "pygal-maps-world": {
+            "hashes": [
+                "sha256:8987fcf7f067b56f40f2f83b4f87baf9456164bbff0995715377020fc533db0f"
+            ],
+            "index": "pypi tuna",
+            "version": "==1.0.2"
         }
     },
     "develop": {}
